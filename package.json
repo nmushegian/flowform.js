@@ -1,0 +1,12 @@
+{
+  "name": "flowform.js",
+  "version": "0.0.1",
+  "license": "AGPL-3.0",
+  "type": "module",
+  "devDependencies": {
+    "tapzero": "^0.6.1"
+  },
+  "dependencies": {
+    "purestate": "^1.0.0"
+  }
+}
